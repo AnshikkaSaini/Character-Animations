@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - GoundLayer
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: 3
+    uniqueID: 2222909815
+    locked: 0
+  - name: 2
+    uniqueID: 2142258631
+    locked: 0
+  - name: 1
+    uniqueID: 371366281
+    locked: 0
+  - name: Backtiles
+    uniqueID: 1629985093
+    locked: 0
+  - name: Tree
+    uniqueID: 4151932659
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GroundTile
+    uniqueID: 2790299845
+    locked: 0
+  m_RenderingLayers:
+  - Default
